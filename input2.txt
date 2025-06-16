@@ -1,0 +1,4 @@
+input aa;
+input ba;
+ca = aa + ba;
+print ca;

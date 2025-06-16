@@ -1,0 +1,11 @@
+input aa;
+input ba;
+
+if aa * ba > 50:
+{
+    print "Product is large!\n";
+}else :
+{
+    print "Product is not large!\n";
+}
+print "Done\n";

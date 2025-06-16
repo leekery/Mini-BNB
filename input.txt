@@ -1,0 +1,5 @@
+print "Enter your name:\n";
+input name1, 32;
+print "Hello, ";
+print name1;
+print "\nGoodbye!\n";
